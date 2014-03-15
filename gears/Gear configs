@@ -1,0 +1,12 @@
+Gear configs
+
+Circular Pitch 250, Pressure angle 20:
+	10 tooth - Pitch Radius: 6.94444
+	15 tooth - Pitch Radius: 10.4167
+	25 tooth - Pitch Radius: 17.3611
+	50 tooth - Pitch Radius: 34.7222
+
+	50->10 = 6.94444 + 34.7222 = 41.66664
+	50->15 = 10.4167 + 34.7222 = 45.1389
+
+	10->25 = 6.94444 + 17.3611 = 24.30554
